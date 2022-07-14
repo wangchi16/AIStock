@@ -1,5 +1,5 @@
 apiVersion: azure.com/v2
-kind: Source
+kind: Component
 metadata:
   name: aiStock-code
   description: a source code from github
