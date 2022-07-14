@@ -1,4 +1,4 @@
-apiVersion: azure.com/v2
+apiVersion: backstage.io/v1
 kind: Component
 metadata:
   name: aiStock-code
@@ -6,4 +6,4 @@ metadata:
 spec:
   type: code
   owner: guest
-  url: https://github.com/wangchi16/AIStock/
+  # url: https://github.com/wangchi16/AIStock/
