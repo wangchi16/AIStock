@@ -1,0 +1,9 @@
+apiVersion: azure.com/v2
+kind: Source
+metadata:
+  name: aiStock-code
+  description: a source code from github
+spec:
+  type: code
+  owner: guest
+  url: https://github.com/wangchi16/AIStock/
