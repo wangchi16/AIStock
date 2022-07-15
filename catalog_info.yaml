@@ -1,10 +1,9 @@
-apiVersion: backstage.io/v1alpha1
-kind: Component
+apiVersion: azure.com/v2
+kind: Source
 metadata:
   name: aiStock-code
   description: a source code from github
 spec:
   type: code
   owner: guest
-  lifecycle: experimental
   url: https://github.com/wangchi16/AIStock/
