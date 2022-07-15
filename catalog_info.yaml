@@ -1,4 +1,4 @@
-apiVersion: azure.com/v2
+apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: aiStock-code
